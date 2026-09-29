@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Bài 13 – Tìm kiếm và thay thế | Tin học 6",
+  "short_name": "Tin học 6 B13",
+  "description": "Học liệu PWA E-learning – Trường THCS Chánh Hưng – Bài 13: Tìm kiếm và thay thế.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F1F5F9",
+  "theme_color": "#1A202C",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "vi"
+}
